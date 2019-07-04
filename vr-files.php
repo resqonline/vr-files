@@ -1,13 +1,12 @@
 <?php
 /**
  * Plugin Name: VR Uploads
- * Plugin URI: http://resq.online
+ * Plugin URI: https://www.resqonline.eu/wordpress/wp-plugins/vr-uploads/
  * Description: Panorama images zip upload 
  * Version: 1.1
  * Author: resQ online
- * Author URI: http://resq.online
+ * Author URI: https://www.resqonline.eu
  * Text Domain: vr-files
- * Domain Path: /lang
  */
 if(!defined('ABSPATH')) {
   die('You are not allowed to call this page directly.');
